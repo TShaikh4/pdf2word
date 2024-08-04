@@ -24,4 +24,4 @@ To run the program: same as above
 - Creating an executable file with pyinstaller.
 
 # Why use this over a free online tool that doesn't require anything to be downloaded or installed?
-This script runs on your local machine completely, your pdf isn't being uploaded to some shady random server offshore so you can be assured your data is safe. Also the installation and requirements setup just needs to be done once, afterwards you just run the program from your terminal or an IDE and instantly convert your files. 
+This script runs on your local machine completely, your pdf isn't being uploaded to some shady random server offshore so you can be assured your data is safe. Also the installation and requirements setup just needs to be done once, afterwards you just run the program from your terminal or an IDE and instantly convert your files. Also, this script and it's dependencies are completely open source so you can see exactly what's going on under the hood. (and if you're a developer, you can fork it and make your own modifications!)
