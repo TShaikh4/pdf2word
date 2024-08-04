@@ -1,5 +1,5 @@
 # pdf2wordGUI
-Graphical user interface that allows you to select a pdf file, hit one button, and convert it to a word file in the same directory. 
+Graphical user interface that allows you to select a pdf file, hit one button, and convert it to a word file in the same directory. You don't have to download the whole code base, I'd reccomend just downloading this file, and then follow the instructions below.
 
 REQUIREMENTS: run brackets in a terminal {win + R, cmd}
 - Python 3.x (Windows: winget install Python.Python, Mac: brew install python)
