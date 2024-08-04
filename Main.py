@@ -14,6 +14,9 @@ def convert_pdf_to_word(pdf_path):
     Returns:
     None
     """
+    # Remove surrounding quotes if present
+    pdf_path = pdf_path.strip('\"')
+
     # Check if the file exists
     if not os.path.isfile(pdf_path):
         print(f"Error: The file {pdf_path} does not exist.")
