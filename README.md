@@ -1,8 +1,8 @@
 # pdf2word
 Accepts a file path to a pdf, converts it to a word file in the same directory, works on Mac OS and Windows locally keeping sensitver information secure. 
 
-REQUIREMENTS: run brackets in a terminal
-- Python 3.x (winget install Python.Python)
+REQUIREMENTS: run brackets in a terminal {win + R, cmd}
+- Python 3.x (Windows: winget install Python.Python, Mac: brew install python)
 - Conversion Dependecy Pakage (pip3 install pdf2docx)
 
 To run the program directly from terminal:
