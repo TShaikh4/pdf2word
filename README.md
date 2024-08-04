@@ -3,7 +3,7 @@ Graphical user interface that allows you to select a pdf file, hit one button, a
 
 REQUIREMENTS: run brackets in a terminal {win + R, cmd}
 - Python 3.x (Windows: winget install Python.Python, Mac: brew install python)
-- Conversion Dependecy Pakage (pip3 install pdf2docx)
+- Conversion Dependecy Pakage (pip install pdf2docx, if that doesn't work: pip3 install pdf2docx)
 
 To run the program:
 directly from terminal: Python3 path/to/wherever/you/saved/this/script 
