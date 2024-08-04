@@ -1,3 +1,6 @@
+### Talha Shaikh - August 2024 
+### pdf2word converter GUI w/tkinter, written to help some family members safely and securely convert file types 
+
 import os
 import tkinter as tk
 from tkinter import filedialog, messagebox
