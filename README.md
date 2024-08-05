@@ -15,6 +15,9 @@ OR
 
 Open the file in Python IDLE / VS Code and run it from there. 
 
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/85a73f18-4b58-43cd-af70-0628f145f494">
+
+
 
 # pdf2wordCLI
 Accepts a file path to a pdf, converts it to a word file in the same directory, works on Mac OS and Windows locally keeping sensitive information secure. 
