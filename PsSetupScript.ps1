@@ -1,4 +1,4 @@
-# STILL NEEDS TO BE TESTED; 
+# STILL NEEDS TO BE DEVELOPED; Does not work yet
 # Define variables
 $pythonInstaller = "python-3.12.2-amd64.exe"
 $pythonInstallerUrl = "https://www.python.org/ftp/python/3.12.2/$pythonInstaller"
